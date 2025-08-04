@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day23/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day23/Solution.java" afterDir="false" />
+    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="最长连续序列&#10;移动零">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/eight/day4/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/seven/day25/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/seven/day19/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day22/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/seven/day22/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day23/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/seven/day23/MoveZeroes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day23/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/seven/day23/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -41,40 +48,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "MavenSettings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MoveZeroes">
+}</component>
+  <component name="RunManager" selected="Application.com.ming.leetcode.code.eight.day4.Solution">
     <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.day23.MoveZeroes" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ming.leetcode.code.day23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.seeyon.leetcode.day19.Solution" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.seeyon.leetcode.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +102,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.ming.leetcode.code.day23.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.day23.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.leetcode.code.day23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ming.leetcode.code.eight.day4.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.eight.day4.Solution" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ming.leetcode.code.eight.day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ming.leetcode.code.eight.day4.Solution" />
         <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.com.ming.leetcode.code.day23.Solution" />
         <item itemvalue="Application.com.ming.leetcode.code.day22.Solution" />
         <item itemvalue="Application.com.ming.leetcode.code.day19.Solution" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -127,21 +148,40 @@
       <updated>1752889313577</updated>
       <workItem from="1752889314676" duration="3474000" />
       <workItem from="1753173248929" duration="3043000" />
+      <workItem from="1753318924716" duration="2377000" />
+      <workItem from="1753340967944" duration="2750000" />
+      <workItem from="1753428683518" duration="3497000" />
+      <workItem from="1754030375949" duration="750000" />
+      <workItem from="1754271988069" duration="2097000" />
+      <workItem from="1754292680173" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="最长连续序列&#10;移动零">
+      <option name="closed" value="true" />
+      <created>1753263819444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753263819444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/day23/MoveZeroes.java</url>
-          <line>57</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最长连续序列&#10;移动零" />
+    <option name="LAST_COMMIT_MESSAGE" value="最长连续序列&#10;移动零" />
   </component>
 </project>

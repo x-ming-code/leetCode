@@ -1,4 +1,4 @@
-package com.ming.leetcode.code.day23;
+package com.ming.leetcode.code.seven.day23;
 
 import java.util.ArrayList;
 import java.util.Arrays;

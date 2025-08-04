@@ -1,4 +1,4 @@
-package com.ming.leetcode.code.day22;
+package com.ming.leetcode.code.seven.day22;
 
 import java.util.*;
 

@@ -1,5 +1,6 @@
-package com.ming.leetcode.code.day23;
+package com.ming.leetcode.code.seven.day23;
 
+import javax.swing.text.ViewFactory;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -9,16 +10,18 @@ class Solution {
      * 示例 1：
      * 输入：nums = [100,4,200,1,3,2]
      * 输出：4
-     *
+     * <p>
      * 解释：最长数字连续序列是 [1, 2, 3, 4]。它的长度为 4。
      * 示例 2：
      * 输入：nums = [0,3,7,2,5,8,4,6,0,1]
      * 输出：9
-     *
+     * <p>
      * 示例 3：
      * 输入：nums = [1,0,1,2]
      * 输出：3
      */
+
+
     public static int longestConsecutive(int[] nums) {
         // 将数组添加到HashSet集合中 天然去重
         Set<Integer> numSet = new HashSet<>();
@@ -30,7 +33,9 @@ class Solution {
         int longest = 0;
 
         for (int num : numSet) {
-            // 只有当 num 是序列的起始点时才开始查找 -1如果前面的数没有存在则表示不是起始点
+
+            // 只有当数组中的前一个数字不存在才开始计数
+            // set.contains(num - 1) 前一个数字存在 取反 不存在
             if (!numSet.contains(num - 1)) {
                 int currentNum = num;
                 // 记录当前的最大连续值  计数器

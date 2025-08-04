@@ -1,4 +1,4 @@
-package com.ming.leetcode.code.day19;
+package com.ming.leetcode.code.seven.day19;
 
 /**
  * @author ming
