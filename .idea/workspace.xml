@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="盛最多水的容器">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/eight/day4/MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/eight/day6/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day8/LongestConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day8/MaxArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day8/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day8/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day8/sum.java" afterDir="false" />
+    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="两数之和&#10;最长连续序列&#10;盛最多水的容器&#10;移动零&#10;字母异位词分组">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day10/FindAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day10/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day10/sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day9/LengthOfLongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day9/ThreeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,32 +48,33 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ming.leetcode.code.eight.day12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxArea">
-    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day8.LongestConsecutive" />
+  <component name="RunManager" selected="Application.MaxSubArray">
+    <configuration name="FindAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day10.FindAnagrams" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day8.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day8.MaxArea" />
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day9.LengthOfLongestSubstring" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day8.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day8.MoveZeroes" />
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day10.MaxSubArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day8.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day8.Solution" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day9.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day8.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
       </method>
     </configuration>
     <configuration name="sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day8.sum" />
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day10.sum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day8.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxArea" />
-        <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.LongestConsecutive" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MaxSubArray" />
         <item itemvalue="Application.sum" />
+        <item itemvalue="Application.FindAnagrams" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,10 @@
       <workItem from="1754986637847" duration="1257000" />
       <workItem from="1755569905250" duration="474000" />
       <workItem from="1755570509147" duration="408000" />
-      <workItem from="1759901069490" duration="7671000" />
+      <workItem from="1759901069490" duration="8495000" />
+      <workItem from="1759975798595" duration="9023000" />
+      <workItem from="1760061661332" duration="3929000" />
+      <workItem from="1760091017200" duration="8373000" />
     </task>
     <task id="LOCAL-00001" summary="最长连续序列&#10;移动零">
       <option name="closed" value="true" />
@@ -184,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754303849674</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="两数之和&#10;最长连续序列&#10;盛最多水的容器&#10;移动零&#10;字母异位词分组">
+      <option name="closed" value="true" />
+      <created>1759925065775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759925065775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +215,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="最长连续序列&#10;移动零" />
     <MESSAGE value="盛最多水的容器" />
-    <option name="LAST_COMMIT_MESSAGE" value="盛最多水的容器" />
+    <MESSAGE value="两数之和&#10;最长连续序列&#10;盛最多水的容器&#10;移动零&#10;字母异位词分组" />
+    <option name="LAST_COMMIT_MESSAGE" value="两数之和&#10;最长连续序列&#10;盛最多水的容器&#10;移动零&#10;字母异位词分组" />
   </component>
 </project>
