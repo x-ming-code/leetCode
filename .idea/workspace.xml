@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="找到字符串中所有字母异位词&#10;无重复字符的最长子串&#10;最大子数组和&#10;和为 K 的子数组&#10;三数之和">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day12/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day12/ProductExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/code/ten/day12/Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="除自身以外数组的乘积&#10;合并区间&#10;转轮数组" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +60,7 @@
       <recent name="com.ming.leetcode.code.eight.day12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductExceptSelf">
+  <component name="RunManager" selected="Application.com.ming.leetcode.code.ten.day19.sum">
     <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day10.MaxSubArray" />
       <module name="leetcode" />
@@ -118,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day10.sum" />
+    <configuration name="com.ming.leetcode.code.ten.day19.sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ming.leetcode.code.ten.day19.sum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ming.leetcode.code.ten.day10.*" />
+          <option name="PATTERN" value="com.ming.leetcode.code.ten.day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.ming.leetcode.code.ten.day19.sum" />
         <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.Rotate" />
         <item itemvalue="Application.Merge" />
         <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.sum" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +162,15 @@
       <workItem from="1759975798595" duration="9023000" />
       <workItem from="1760061661332" duration="3929000" />
       <workItem from="1760091017200" duration="9140000" />
-      <workItem from="1760253403383" duration="10529000" />
+      <workItem from="1760253403383" duration="10879000" />
+      <workItem from="1760501805681" duration="614000" />
+      <workItem from="1760519221821" duration="28000" />
+      <workItem from="1760776771663" duration="2809000" />
+      <workItem from="1760863167249" duration="4020000" />
+      <workItem from="1761010379045" duration="4762000" />
+      <workItem from="1761106935485" duration="2363000" />
+      <workItem from="1761183285731" duration="1920000" />
+      <workItem from="1763343035860" duration="273000" />
     </task>
     <task id="LOCAL-00001" summary="最长连续序列&#10;移动零">
       <option name="closed" value="true" />
@@ -201,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760100781071</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="除自身以外数组的乘积&#10;合并区间&#10;转轮数组">
+      <option name="closed" value="true" />
+      <created>1760273249639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760273249639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +234,7 @@
     <MESSAGE value="盛最多水的容器" />
     <MESSAGE value="两数之和&#10;最长连续序列&#10;盛最多水的容器&#10;移动零&#10;字母异位词分组" />
     <MESSAGE value="找到字符串中所有字母异位词&#10;无重复字符的最长子串&#10;最大子数组和&#10;和为 K 的子数组&#10;三数之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="找到字符串中所有字母异位词&#10;无重复字符的最长子串&#10;最大子数组和&#10;和为 K 的子数组&#10;三数之和" />
+    <MESSAGE value="除自身以外数组的乘积&#10;合并区间&#10;转轮数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="除自身以外数组的乘积&#10;合并区间&#10;转轮数组" />
   </component>
 </project>
