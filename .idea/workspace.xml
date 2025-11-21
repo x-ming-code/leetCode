@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="(双指针解法题型)&#10;回顾18号算法相关">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day20/findKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day20/frequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day20/topKFrequent.java" afterDir="false" />
+    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="(排序相关)&#10;根据字符出现频率排序&#10;前K个高频元素&#10;数组中的第K个大的元素">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +206,8 @@
       <workItem from="1763344389309" duration="14684000" />
       <workItem from="1763429361646" duration="11484000" />
       <workItem from="1763514296124" duration="6170000" />
-      <workItem from="1763601205346" duration="9654000" />
+      <workItem from="1763601205346" duration="9711000" />
+      <workItem from="1763686851391" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="最长连续序列&#10;移动零">
       <option name="closed" value="true" />
@@ -275,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763546417314</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="(排序相关)&#10;根据字符出现频率排序&#10;前K个高频元素&#10;数组中的第K个大的元素">
+      <option name="closed" value="true" />
+      <created>1763633323123</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763633323123</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,6 +307,7 @@
     <MESSAGE value="(双指针解法题型)&#10;有序数组&#10;两数平方和&#10;反转字符串中的元音字母&#10;回文字符串&#10;归并两个有序数组" />
     <MESSAGE value="(双指针解法题型)&#10;回顾17号算法相关&#10;通过删除字母匹配到字典里最长单词&#10;环形链表" />
     <MESSAGE value="(双指针解法题型)&#10;回顾18号算法相关" />
-    <option name="LAST_COMMIT_MESSAGE" value="(双指针解法题型)&#10;回顾18号算法相关" />
+    <MESSAGE value="(排序相关)&#10;根据字符出现频率排序&#10;前K个高频元素&#10;数组中的第K个大的元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="(排序相关)&#10;根据字符出现频率排序&#10;前K个高频元素&#10;数组中的第K个大的元素" />
   </component>
 </project>
