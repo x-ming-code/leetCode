@@ -24,7 +24,6 @@ public class moveZeroes {
         // 第二步：把 slow 及之后的位置都设为 0
         for (int i = slow; i < nums.length; i++) {
             nums[i] = 0;
-            slow++;
         }
     }
 }
