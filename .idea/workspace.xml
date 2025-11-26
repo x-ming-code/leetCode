@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="(双指针相关)&#10;三数之和&#10;移动零&#10;2篇面经&#10;回顾21 最长连续子序列相关">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day25/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day25/day24/threeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day24/lengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ming/leetcode/november/day25/lengthOfLongestSubstring.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e9b7b64-970e-4526-b2ca-5d14190171e6" name="Changes" comment="(滑动窗口)&#10;复习24号相关&#10;无重复字符的最长字串" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,7 +210,7 @@
       <workItem from="1763687638309" duration="10833000" />
       <workItem from="1763947117469" duration="2102000" />
       <workItem from="1763950790484" duration="11909000" />
-      <workItem from="1764033266147" duration="14622000" />
+      <workItem from="1764033266147" duration="14699000" />
     </task>
     <task id="LOCAL-00001" summary="最长连续序列&#10;移动零">
       <option name="closed" value="true" />
@@ -305,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763978262341</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="(滑动窗口)&#10;复习24号相关&#10;无重复字符的最长字串">
+      <option name="closed" value="true" />
+      <created>1764065067675</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764065067675</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +337,7 @@
     <MESSAGE value="(排序相关)&#10;根据字符出现频率排序&#10;前K个高频元素&#10;数组中的第K个大的元素" />
     <MESSAGE value="(哈希相关)&#10;两数之和&#10;字母异位词分组&#10;最长连续子序列&#10;移动零&#10;回顾20 数组中第K大元素" />
     <MESSAGE value="(双指针相关)&#10;三数之和&#10;移动零&#10;2篇面经&#10;回顾21 最长连续子序列相关" />
-    <option name="LAST_COMMIT_MESSAGE" value="(双指针相关)&#10;三数之和&#10;移动零&#10;2篇面经&#10;回顾21 最长连续子序列相关" />
+    <MESSAGE value="(滑动窗口)&#10;复习24号相关&#10;无重复字符的最长字串" />
+    <option name="LAST_COMMIT_MESSAGE" value="(滑动窗口)&#10;复习24号相关&#10;无重复字符的最长字串" />
   </component>
 </project>
